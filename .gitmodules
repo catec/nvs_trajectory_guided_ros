@@ -1,0 +1,4 @@
+[submodule "proposed_tool/Look-Outside-Room"]
+	path = proposed_tool/Look-Outside-Room
+	url = https://github.com/mgrova/Look-Outside-Room
+	branch = ros_node
